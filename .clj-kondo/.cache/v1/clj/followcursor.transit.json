@@ -1,0 +1,1 @@
+["^ ","~$draw",["^ ","~:row",3,"~:col",1,"~:fixed-arities",["~#set",[0]],"~:name","^0","~:ns","~$followcursor","~:top-ns","^7","~:arities",["^ ","~i0",["^ ","~:ret","~:vector","~:arglist-str","[]"]],"~:type","~:fn"],"~:filename","/Users/mikhailevchenko/Documents/Courses/ClojureLearning/quil/src/followcursor.clj"]
